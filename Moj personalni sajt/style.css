@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+
+h1 { 
+    font-size: 5.625rem;
+    font-family: "Sacramento", cursive;
+    margin: 50px auto 0 auto  ;
+    color:#66bfbf; 
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.5rem;
+     text-align: center;
+     color: #66bfbf;
+     margin-top: 50px;
+
+}
+
+.teksth2 {
+    text-decoration: underline;
+}
+
+
+
+
+.top-div { 
+
+    height: 680px;
+    background-color:#e4f9f5;
+    position: relative;
+    padding-top:150px ;
+}
+
+
+.oblak1{
+    position: relative;
+    margin-left: 1300px;
+}
+
+.oblak2 {
+    position: relative;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+
+.planina {
+    position: absolute;
+    margin-left: 120px;
+}
+
+
+.profilna { 
+    height: 400px;
+    width: 200px;
+    border-radius: 60px;
+    margin-top: 100px;
+}
+
+
+.srednji-div{
+    text-align: center;
+}
+
+section > h3 {
+    color: #66bfbf;
+    font-size:2rem ;
+    font-weight: 200;
+    margin-top: 50px;
+    font-family:"Montserrat", sans-serif;
+}
+
+.srednji-div > p {
+
+    margin-top: 10px;
+    font-size: 15px;
+    font-family:"Montserrat", sans-serif;
+}
+
+.skilovi-div {
+  
+    margin: 100px;
+
+}
+
+
+.slika-skil1 {
+    width: 200px;
+    height: 200px;
+    margin-top: 40px;
+
+  }
+
+.slika-skil2 {
+    width: 100px;
+    margin-top: 40px;
+
+} 
+
+.skilovi-div > h3 {
+    color: #66bfbf;
+    font-family:"Montserrat", sans-serif;
+
+}
+
+.skilovi-div > p {
+    margin-top: 20px;
+}
+
+.paprika {
+    margin-top: 50px;
+}
+
+.paprika > h3 {
+    color: #66bfbf;
+    font-family:"Montserrat", sans-serif;
+    
+}
+
+.paprika > p {
+    margin-top: 20px;
+}
+
+
+.div-kontakt {
+    text-align: center;
+}
+
+.TEKSTh3 {
+    color: #66bfbf;
+    font-family:"Monserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom:10px;
+}
+
+.TEKSTh2 {
+    color:#66bfbf ;
+    font-family: "Monserrat",sans-serif;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+}
+
+.dugme{
+    background-color: #11cdd4;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    font-family: "Monserrat",sans-serif;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.futer {
+    background-color: #66bfbf;
+    height: 100px;
+    padding: 50px 0 20px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.footer-link {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.kopirajt {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
